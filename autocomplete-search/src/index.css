@@ -1,0 +1,30 @@
+:root{
+  background-color: black;
+  color: white;
+}
+
+.maincont{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#list{
+margin-left: 1vw;
+background-color: aquamarine;
+color: black;
+}
+
+#search{
+  width: 24vw;
+  margin-left: 1vw;
+  height: 2vw;
+}
+button{
+  height: 2.3vw;
+}
+
+h1{
+  text-shadow: 3px 3px 10px white;
+}
